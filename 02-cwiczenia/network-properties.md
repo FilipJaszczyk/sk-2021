@@ -29,12 +29,10 @@ Wejściowe parametry sieci
 Weryfikacja połączenia
 
 Polecenie
-```
-```
+From PC 1 `ping 10.0.15.6`
 
 Efekt
-```
-```
+`x packets transmitted, x recived`
 
 Statyczna konfiguracja parametrów połączenia
 Wejściowe parametry sieci
@@ -54,6 +52,7 @@ Wejściowe parametry sieci
 
 Weryfikacja połączenia
 
+Rozmiar sieci wykroczył poza zdefiniowany przez maskę.
 Polecenie
 ```
 ```
